@@ -2,4 +2,4 @@
 - website: [miravuong.github.io](https://miravuong.github.io/)
 - linkedin: [/in/miravuong](https://www.linkedin.com/in/miravuong/)
 
-> feel free to explore my place on the internet!
+> feel free to explore my place of the internet!
