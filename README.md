@@ -3,4 +3,4 @@
 - linkedin: [/in/miravuong](https://www.linkedin.com/in/miravuong/)
 - instagram: [@miravuong](https://www.instagram.com/miravuong/)
 
-> feel free to explore work!
+> feel free to explore my work!
