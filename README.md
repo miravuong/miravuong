@@ -4,6 +4,6 @@ I’m a Computer Science and Linguistics undergraduate at **UCLA**. I have a str
 
 - website: [miravuong.github.io](https://miravuong.github.io/portfolio)
 - linkedin: [/in/miravuong](https://www.linkedin.com/in/miravuong/)
-- e-mail: [mvuong20 [at] g.ucla.edu](mailto:mvuong@g.ucla.edu)
+- e-mail: [mvuong20 [at] g.ucla.edu](mailto:mvuong20@g.ucla.edu)
 
 > feel free to explore my work! 🚀
