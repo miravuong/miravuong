@@ -1,4 +1,4 @@
-## HI HI! Mirabel here~ 🍓✨🌸
+## HI HI! 🍓✨🌸🪐
 
 I’m a Computer Science and Linguistics undergraduate at **UCLA**. I have a strong interest in **security engineering**, systems, and computational linguistics. I also volunteer and teach free computer science classes at elementary schools in Los Angeles.
 
