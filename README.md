@@ -1,4 +1,4 @@
-## Howdy, I'm Mirabel!
+## Howdy, I'm Mirabel! 👋
 
 I’m a Computer Science and Linguistics undergraduate at **UCLA**. I have a strong interest in **security engineering**, enterprise systems, and automation. I also volunteer and teach free computer science classes at elementary schools in Los Angeles.
 
